@@ -15,10 +15,9 @@ I am a passionate data scientist interested in leveraging data to drive insights
 
 ## Languages
 - **English**: Full Professional
-- **Italian**: Limited Working
 - **German**: Native or Bilingual
 - **Portuguese**: Native or Bilingual
-- **French**: Elementary
+
 
 
 ## GitHub Stats
