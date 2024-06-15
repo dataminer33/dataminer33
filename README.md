@@ -5,15 +5,6 @@ Hello GitHub Community!
 I am a passionate data scientist interested in leveraging data to drive insights and innovation. With a strong foundation in data analysis, machine learning, and statistical modeling, I am dedicated to solving complex problems and making data-driven decisions.
 
 
-### Field Application Engineer at Texas Instruments
-- Successfully used various sales tools and built close relationships with electrical engineers.
-- Identified potential projects and proactively offered customers comprehensive, system-wide solutions.
-- Significantly influenced the customers' selection process and successfully positioned TI against the competition.
-
-### Process Control Engineer at Bioengineering AG
-- Managed and optimized process control systems for biotech applications.
-- Ensured compliance with GMP standards and improved operational efficiency.
-
 ## Skills
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 - **Data Analysis & Visualization**: ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
