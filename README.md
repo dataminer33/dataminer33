@@ -21,7 +21,7 @@ I am a passionate data scientist interested in leveraging data to drive insights
 
 
 ## GitHub Stats
-![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dataminer33&show_icons=true)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alexandre-da-silva-5a4000154)
